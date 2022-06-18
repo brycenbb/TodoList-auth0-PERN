@@ -1,0 +1,14 @@
+images/soc-logo.png
+.github/ISSUE_TEMPLATE/question_template.md
+.github/ISSUE_TEMPLATE/bug_report.md
+.github/ISSUE_TEMPLATE/resource_template.md
+.github/workflows/git-sync.yaml
+.github/workflows/slack-notify.yaml
+my_app/.gitignore
+my_app/README.md
+my_app/public/favicon.ico
+my_app/public/logo192.png
+my_app/public/logo512.png
+my_app/public/robots.txt
+my_app/src/reportWebVitals.js
+my_app/public/manifest.json
